@@ -1,0 +1,4 @@
+name: Beecoin
+version: '${project.version}'
+main: com.github.falledcan.beecoin.Beecoin
+api-version: '1.20'
